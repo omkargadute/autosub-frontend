@@ -5,7 +5,6 @@ anyio==3.6.2
 asttokens==2.1.0
 async-timeout==4.0.2
 attrs==22.1.0
-auto-subtitle==1.0
 backcall==0.2.0
 bcrypt==4.0.1
 blinker==1.5
